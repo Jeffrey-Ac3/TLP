@@ -47,6 +47,7 @@ Database: SQLite (Configured with custom SQLAlchemy event connection listeners t
 
 [x] Phase 6: Final Polish on the Premium Dark Dashboard micro-animations.
 (completed as at 18/06/2026)
+<p align="left"><a href="https://drive.google.com/drive/folders/1RKL3Zi_ayg9xW0pn2VnJp2DOvl4RCOTW?usp=drive_link"> <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"></a></p> ^-^ Some pics here
 
 **Developed by the Coding Club of Tunwase High School.**
 
